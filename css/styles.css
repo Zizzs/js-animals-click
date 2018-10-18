@@ -1,0 +1,26 @@
+#slothPic {
+  height: 400px;
+  width: 800px;
+}
+
+#dogPic {
+  height: 400px;
+  width: 800px;
+}
+
+#snakePic {
+  height: 400px;
+  width: 800px;
+}
+
+#slothInfo {
+  display: none;
+}
+
+#dogInfo {
+  display: none;
+}
+
+#snakeInfo {
+  display: none;
+}
